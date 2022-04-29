@@ -1,0 +1,2 @@
+Crie um objeto que recebe um nome e duas notas, as duas notas ficam armazenadas em um Array.
+E acesse as propriedades.
